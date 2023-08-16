@@ -1,1 +1,1 @@
-# Customer_Segmentation_using_K_Means_Clustering_-PCA
+# Customer_Segmentation_using_K_Means_Clustering
